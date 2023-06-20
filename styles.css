@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+table
+{
+	border: 1px solid solid;
+	border-collapse: collapse;
+}
+table, .center .right
+{
+	width: 50%;
+	height: 50px;
+}
